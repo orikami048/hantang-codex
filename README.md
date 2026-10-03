@@ -79,6 +79,18 @@ The platform systematically integrates the classical canons of Chinese medicine�
 
 ---
 
+## 🏷️ Indexing & Topic Taxonomy (Search Keywords)
+
+To facilitate global research, cross-discipline discovery, and indexing across Traditional Chinese Medicine (TCM) repositories, HanTang Codex maps across the following core academic domains:
+
+- **📚 Classical Literature**: Zhang Zhongjing, *Shanghan Zabing Lun*, *Shanghan Lun* (Treatise on Cold Damage Diseases), *Jingui Yaolue* (Golden Cabinet Prescriptions), *Huangdi Neijing* (Yellow Emperor's Inner Canon), *Shennong Bencao Jing* (Divine Farmer's Materia Medica).
+- **👨‍⚕️ Lineage & Modern Masters**: Master Ni Haixia (倪海厦), *Renji* (人纪) Lecture Series, HanTang Herbal Formulations (HT-1 through HT-100), Hu Xishu, Li Ke, Classical Jingfang Lineage.
+- **⚡ Diagnostic Methodologies**: Six Stages Pattern Differentiation (Taiyang, Yangming, Shaoyang, Taiyin, Shaoyin, Jueyin), Syndrome Differentiation (*Bian Zheng Lun Zhi*), Multi-Symptom Weighted Matching, Formula Comparator & Differentiation Matrix.
+- **🌿 Herbal Pharmacology & Safety**: Materia Medica, Pharmaceutical Latin Nomenclature, Metric Herb Dosage, Classical Incompatibilities (*Eighteen Incompatibilities / 十八反*, *Nineteen Counteractions / 十九畏*), Decoction Protocols.
+- **🌐 Global & Integrative Health**: Traditional Chinese Medicine (TCM), Classical Chinese Medicine (CCM), Herbal Medicine, Acupuncture & Moxibustion, Integrative Oncology & Chronic Disease Management, Botanical Prescription Suite.
+
+---
+
 ## ⭐ Support & Star
 
 If HanTang Codex aids your TCM studies, clinical decisions, or research:

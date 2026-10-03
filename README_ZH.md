@@ -79,6 +79,18 @@
 
 ---
 
+## 🏷️ 核心学术索引与检索主题 (Search Keywords & Topics)
+
+为了便于全球中医同道、经方学者与临床医生精准检索与学术交流，本项目深度覆盖以下知识图谱索引：
+
+- **📚 中医经典古籍**：张仲景、伤寒杂病论、伤寒论、金匮要略、黄帝内经、神农本草经、千金要方、温病条辨。
+- **👨‍⚕️ 经方医家与传承**：倪海厦、倪师人纪系列（针灸/本草/黄帝内经/伤寒/金匮）、天纪、汉唐方剂、HT-1~100 临床经验方、胡希恕、李可、刘力红《思考中医》、JT叔叔。
+- **⚡ 经方辨证论治体系**：六经辨证（太阳病、阳明病、少阳病、太阴病、少阴病、厥阴病）、方证对应、多症状复合加权辨证、类方横向深度鉴别、病机传变演化。
+- **🌿 中药配伍与方剂学**：中药学、本草纲目、中药配伍禁忌、十八反十九畏、抓药单排版、药学拉丁学名 (*Pharmaceutical Latin*)、公制克重配比、煎药温服法。
+- **🌐 国际标准对照**：Traditional Chinese Medicine (TCM), Classical Chinese Medicine (CCM), Herbal Medicine, Acupuncture, Jingfang Formulas, Shang Han Lun, Jin Gui Yao Lue, Botanical Prescriptions.
+
+---
+
 ## ⭐ 支持与点赞 (Support & Star)
 
 如果您觉得「汉唐方典」对您的经方研习、临床诊疗或健康管理有所启发与帮助：
