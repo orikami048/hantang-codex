@@ -69,16 +69,6 @@ The platform systematically integrates the classical canons of Chinese medicine�
 
 ---
 
-## 🗺️ Roadmap
-
-- [x] **v1.0**: Full-text bilingual search across 391 classical formulas
-- [x] **v1.5**: 8-system multi-symptom matrix and cloud user authentication
-- [x] **v2.0**: Standardized prescription export, Formula Comparator Matrix, Multi-Symptom Radar & Herb Safety Engine
-- [ ] **v2.5 (VIP)**: Cloud herbal cabinet, treatment journal & custom metric weight adjustment
-- [ ] **v3.0 (AI)**: Classical Chinese Medicine AI Pattern Copilot (Six Stages inference from natural language symptoms)
-
----
-
 ## 🏷️ Indexing & Topic Taxonomy (Search Keywords)
 
 To facilitate global research, cross-discipline discovery, and indexing across Traditional Chinese Medicine (TCM) repositories, HanTang Codex maps across the following core academic domains:
