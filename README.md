@@ -3,12 +3,12 @@
 <img src="./logo.png" alt="汉唐方典 Logo" width="130" style="border-radius: 50%; box-shadow: 0 8px 30px rgba(158,42,43,0.18);" />
 
 # 汉唐方典 · HanTang Codex
-### 倪海厦人纪经方智能检索与高定植物药笺决策系统
-#### An Intelligent Classical Chinese Medicine Codex & Haute Botanical Prescription Suite
+### 倪海厦人纪经方智能检索与植物药笺决策系统
+#### An Intelligent Classical Chinese Medicine Codex & Botanical Prescription Suite
 
 <p align="center">
   <a href="https://fangji-2oh.pages.dev/"><img src="https://img.shields.io/badge/🌐_Official_Web-fangji--2oh.pages.dev-9E2A2B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Web" /></a>
-  <a href="https://fangji-2oh.pages.dev/"><img src="https://img.shields.io/badge/Release-v2.0_Haute_Zen-2F6F4E?style=for-the-badge" alt="Release" /></a>
+  <a href="https://fangji-2oh.pages.dev/"><img src="https://img.shields.io/badge/Release-v2.0_Zen_Botanical-2F6F4E?style=for-the-badge" alt="Release" /></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Commercial_Proprietary-D97706?style=for-the-badge" alt="License" /></a>
   <img src="https://img.shields.io/badge/Cloud-Cloudflare_Pages_%26_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
@@ -20,7 +20,7 @@
 
 ---
 
-[🚀 立即在线体验 (Live Official Web)](https://fangji-2oh.pages.dev/) · [⭐ 欢迎点 Star 收藏](#-支持与点赞) · [✨ 核心功能亮点](#-核心功能亮点) · [⚖️ 经方鉴别矩阵](#3--经方横向鉴别与病机演变透视矩阵) · [🔒 版权与商务](#-商业授权与版权保护声明)
+[🚀 立即在线体验 (Live Official Web)](https://fangji-2oh.pages.dev/) · [⭐ 欢迎点 Star 收藏](#-支持与点赞) · [✨ 核心功能亮点](#-核心功能亮点) · [⚖️ 经方鉴别矩阵](#3--经方横向深度鉴别与病机演变透视矩阵) · [🔒 版权与商务](#-商业授权与版权保护声明)
 
 ---
 
@@ -28,11 +28,9 @@
 
 ## 📖 关于项目 (About HanTang Codex)
 
-**「汉唐方典」(HanTang Codex)** 是面向当代经方研习者、临床中医师与健康自研人群打造的新一代**经方智能检索、多维复合辨证与高奢药笺输出平台**。
+**「汉唐方典」(HanTang Codex)** 是面向当代经方研习者、临床中医师与健康自研人群打造的新一代**经方智能检索、多维复合辨证与植物药笺输出平台**。
 
-项目深度整合了东汉医圣张仲景《伤寒杂病论》（《伤寒论》《金匮要略》）正统条文，以及当代经方大家**倪海厦老师（Ni Haixia）**《人纪》讲义与汉唐临床方剂核心心法，并融入**伊索禅意（Aesop Zen Haute Botanical）**国际极奢药典视觉设计。
-
-> 💡 **项目状态**：公测运营中，核心云端系统已部署于 Cloudflare 全球边缘网络，支持移动端、微信浏览器与电脑端免安装流畅使用。
+项目深度整合了东汉医圣张仲景《伤寒杂病论》（《伤寒论》《金匮要略》）正统条文，以及当代经方大家**倪海厦老师（Ni Haixia）**《人纪》讲义与汉唐临床方剂核心心法，并融入**伊索禅意（Aesop Zen Botanical）**典雅药笺排版设计。
 
 ---
 
@@ -54,8 +52,8 @@
 - **👤 典型患者画像**：用通俗的生活化场景（如：“退烧后汗止不住”、“半夜小腿抽筋”、“关节碰都不能碰”），让您一眼对号入座。
 - **🔘 顶部一键问诊决断向导**：根据当下最突出感受一键点击，系统以朱砂红光晕自动高亮锁定最佳对症方。
 
-### 4. 🌿 伊索禅意 · 国际高奢植物配方笺（Aesop Botanical Prescription）
-- **极奢排版美学**：居中同心朱砂印章徽标，优雅衬线英汉双语学名。
+### 4. 🌿 伊索禅意 · 植物配方笺排版（Aesop Botanical Prescription）
+- **典雅排版美学**：居中同心朱砂印章徽标，优雅衬线英汉双语学名。
 - **三列药学学名表格**：中文药名、声调拼音、正统药学拉丁植物学名（*Pharmaceutical Latin*）及精准公制克重（`g`）。
 - **三段式煎服指南**：准备（`PREPARE`）、煎煮（`BOIL`）、温服（`ADMINISTER`）图形化标准指南。
 - **全渠道一键导出**：支持高清宣纸质感图片长按保存发微信、A4 极简打印与纯文本药单复制。
@@ -73,7 +71,7 @@
 | :--- | :--- | :--- |
 | **主基调色** | 经典宣纸白 `#FAF8F5` · 徽墨浓黑 `#1C1713` | 宋韵古朴 · 宁静内敛 |
 | **点睛主色** | 帝王朱砂红 `#9E2A2B` · 琥珀暖金 `#B45309` | 宫廷本草 · 严谨尊贵 |
-| **字体系统** | 经典宋体/明朝体 + Inter / Garamond Serif | 学术典雅 · 国际高定 |
+| **字体系统** | 经典宋体/明朝体 + Inter / Garamond Serif | 学术典雅 · 严谨规范 |
 | **药笺风格** | 伊索植物极简风（Aesop Zen Botanical） | 现代药典 · 极简留白 |
 
 ---
@@ -82,7 +80,7 @@
 
 - [x] **v1.0**：391 首经方全文搜索与中英双语国际化
 - [x] **v1.5**：8 大系统现代症状矩阵与云端统一用户体系
-- [x] **v2.0**：伊索高奢药笺导出、经方横向鉴别矩阵、多症状雷达与配伍禁忌引擎
+- [x] **v2.0**：伊索植物药笺导出、经方横向鉴别矩阵、多症状雷达与配伍禁忌引擎
 - [ ] **v2.5 (VIP)**：个人专属云端药箱、服药调养日记、自定义药材克重调配
 - [ ] **v3.0 (AI)**：倪师人纪 AI 经方辨证 Copilot（自然语言症状推导六经病机）
 
